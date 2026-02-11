@@ -1,16 +1,4 @@
-# Image Upload Web App
 
-This is a simple Flask-based web application that allows users to **upload** and **delete images**. It also includes an **IP whitelisting** feature to restrict access to a specific IP address.
-
----
-
-## 🚀 Features
-
-- Upload images (`.jpg`, `.jpeg`, `.png`, `.gif`)
-- View uploaded images
-- Delete images
-- IP restriction using Flask middleware
-- Simple and clean HTML interface
 
 ---
 
